@@ -1,0 +1,224 @@
+body {
+	// width: 395px;
+	 //border-style: solid;
+	 //border-width: 2px;
+	 //padding: 10px;
+	 font-size: 80%;
+	 font-family: "Courier New", Courier, monospace;
+	 letter-spacing: 0.15em;
+	 text-align: left;
+	 background-color: #CCC;
+	 margin: 10px auto 10px auto;
+	 //Still have to make an image for this...
+	 //border-image: url("") 11 11 11 11 repeat; 
+	 }
+ 
+ #navigation {
+ border-style: solid;
+ border-width: 2px;
+ padding: 10px;
+ width: 420px;
+ height: 30px;
+ }
+ 
+ li.nav {
+ display: inline;
+ margin-right: 10px;
+ }
+ 
+ #wholepage {
+     text-align: left;
+     width: 420px;
+	 border-style: solid;
+	 border-width: 2px;
+	 padding: 10px;
+	 margin: 10px auto 10px auto;
+ }
+ 
+ div {
+ box-shadow: 5px 5px 5px #777777;
+ //text-align: left;
+ //background-color: ; #000FF;
+ margin: 10px auto 10px auto;
+ border-radius: 10px;
+ }
+ 
+ p {
+    //box-shadow: 5px 5px 5px #777777;
+    text-align: center;
+    border-style: groove;
+    border-width: 5px;
+    padding: 5px;
+	background-color: #ffffff;
+	margin: 10px auto 10px auto;
+	border-radius: 10px;
+}
+
+/*#intro {
+border-style: inset;
+border-width: 5px;
+}*/
+
+#header {
+height: 180px;
+width: 370px;
+padding: 10px;
+border-style: solid;
+border-width: 2px;
+//background-color: ; #000FF;
+}
+
+//Quote section is malfunctioning...
+/*#quote {
+height: 5px;
+width: 355px;
+}*/
+#infosection {
+border-style: solid;
+border-width: 2px;
+padding 10px;
+height: 6000px;
+width: 400px;
+}
+
+#basicinfoa {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 140px;
+width: 370px;
+}
+
+#basicinfob {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 100px;
+width: 370px;
+}
+
+#basicinfoc {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 140px;
+width: 370px;
+}
+
+#basicinfod {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 230px;
+width: 370px;
+}
+
+#basicinfoe {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 140px;
+width: 370px;
+}
+
+#basicinfof {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 130px;
+width: 370px;
+}
+
+#infoa {
+height: 80px;
+width: 355px;
+}
+
+#infob {
+height: 40px;
+width: 355px;
+}
+
+#infoc {
+height: 80px;
+width: 355px;
+}
+
+#infod {
+height: 180px;
+width: 355px;
+}
+
+#infoe {
+height: 80px;
+width: 355px;
+}
+
+#infof {
+height: 80px;
+width: 355px;
+}
+
+hr.infoline {
+height: 0px;
+width: 355px;
+}
+
+#lists {
+height: 1080px;
+width: 360px;
+}	
+
+#list-title {
+padding: 10px;
+height: 40px;
+width: 355px;
+}
+#list1 {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 150px;
+width: 370px;
+}
+
+#list2 {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 300px;
+width: 370px;
+}
+
+#list3 {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 480px;
+width: 370px;
+}
+
+#table {
+display: none;
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 120px;
+width: 370px;
+}
+
+#search {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 100px;
+width: 370px;
+}
+
+#contactinfo {
+border-style: solid;
+border-width: 2px;
+padding: 10px;
+height: 120px;
+width: 370px;
+}
