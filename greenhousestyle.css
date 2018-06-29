@@ -1,4 +1,5 @@
 body {
+	cursor: crosshair;
 	// width: 395px;
 	 //border-style: solid;
 	 //border-width: 2px;
@@ -52,6 +53,20 @@ body {
 	background-color: #ffffff;
 	margin: 10px auto 10px auto;
 	border-radius: 10px;
+}
+
+ul {
+	//list-style-type: disc;
+	//list-style-position: inside;
+	//list-style-image: url("/sdcard/Documents/WebStuff/WebStuff-master/Border2.png");
+	list-style: inside disc;
+}
+
+li {
+	//margin: 10px 0px 0px 0px;}
+
+ol {
+    list-style-type: upper-alpha;
 }
 
 /*#intro {
@@ -135,7 +150,7 @@ width: 355px;
 }
 
 #infob {
-height: 40px;
+height: 50px;
 width: 355px;
 }
 
@@ -198,12 +213,44 @@ height: 480px;
 width: 370px;
 }
 
+//Table Properties
+#tableheads {
+text-align: left;
+}
+
+th, td {
+	padding: 5px 5px 5px 5px;
+}
+
+th {
+text-transform: uppercase;
+letter-spacing: 0.1em;
+font-size: 90%;
+border-bottom: 2px solid#111111;
+border-top: 1px solid #111111;
+text-align: left;
+}
+
+#veggies {
+	background-color: #efefef;
+}
+
+#fruit {
+	background-color: #efefef;
+}
+
+#flowers {
+	background-color: #efefef;
+}
+
 #table {
-display: none;
+//border-spacing: 5px;
+font-family: Arial, Verdana, sans-serif;
+//display: none;
 border-style: solid;
 border-width: 2px;
-padding: 10px;
-height: 120px;
+padding: 10px 10px 10px 10px;
+height: 130px;
 width: 370px;
 }
 
